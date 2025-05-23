@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>the line of code</title>
+</head>
+<body>
+<h1>the amity university</h1>
+</body>
+</html>
+
