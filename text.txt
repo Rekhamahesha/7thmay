@@ -12,6 +12,8 @@
 <p>are divided into many parts</p>
 <p>b.tech , bcom,bca,mca,mcom etc..</p>
 
+<p>in btech many parts divided</p>
+`
 </body>
 </html>
 
