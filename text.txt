@@ -9,6 +9,7 @@
 <p>near devanahalli</p>
 
 <p>coureses are</p>
+<p>are divided into many parts</p>
 
 </body>
 </html>
