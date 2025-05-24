@@ -10,6 +10,7 @@
 
 <p>coureses are</p>
 <p>are divided into many parts</p>
+<p>b.tech , bcom,bca,mca,mcom etc..</p>
 
 </body>
 </html>
