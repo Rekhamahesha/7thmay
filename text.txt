@@ -8,6 +8,7 @@
 <p>this page include about college</p>
 <p>near devanahalli</p>
 
+<p>coureses are</p>
 
 </body>
 </html>
