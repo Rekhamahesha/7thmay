@@ -5,6 +5,7 @@
 <body>
 <h1>the amity university</h1>
 <2>bengaluru</h2>
+<p>this page include about college</p>
 
 </body>
 </html>
